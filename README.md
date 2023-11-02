@@ -21,7 +21,7 @@ Provide a short description explaining the what, why, and how of your project. U
 Provide instructions and examples for use. Include screenshots as needed.
 
 
-[alt project Horsean](assets/images/HorSSSproject.png)
+[alt project Horsean](assets/images/Screenshot%20(5).png)))
 
 
 
